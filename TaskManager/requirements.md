@@ -1,0 +1,52 @@
+
+1
+Chapter One Tech Screen
+React Native Tech Screen: Simple Task Manager App
+Objective:DevelopabasicTaskManagerappusingReactNative.Thisappwillallow
+userstoaddtasks,markthemascomplete,anddeletethem.Theprimaryfocusison
+frontenddevelopment,userinteraction,andstatemanagementwithintheapp.
+StarterTemplate:
+● WerecommendusingExpotogetstarted.Itwillcreateabasictemplateforyou.
+Oryoucanfindanothertemplateoffgithuboranotherresource.-
+https://reactnative.dev/docs/environment-setup?guide=quickstart
+Requirements:
+  AppFeatures:
+● AddTask:Userscanaddanewtaskwithabriefdescription.
+● MarkTaskasComplete:Userscanmarktasksascomplete,whichvisually
+distinguishesthemfromincompletetasks.
+● DeleteTask:Userscandeleteataskfromthelist.
+● TaskList:Displayalltasksinalistview,showingbothcompleteand
+incompletetasks.
+  UserInterface:
+● Createacleanandintuitiveuserinterface.UsedefaultUIcomponents
+providedbyReactNative,orfeelfreetouseanyUIlibrarycompatiblewith
+ReactNative.
+● Ensuretheappprovidesvisualfeedbackforuserinteractions(e.g.,
+completingordeletingatask).
+  StateManagement:
+● Uselocalcomponentstatetomanagethetasks.Thisprojectdoesnot
+requireexternalstorageormoreadvancedstatemanagementsolutions.
+● DemonstratebasicunderstandingofstateandpropsinReactNative.
+  Documentation:
+● IncludeaREADME.mdfilewith:
+● Instructionsforsettingupandrunningtheapp.
+● Abriefoverviewoftheapp'sfeaturesandanyspecialinstructions
+forusingit.
+● Mentionanythird-partylibrariesusedandtheirpurposeinyour
+project.
+SubmissionGuidelines:
+● ProvidealinktoaGitHubrepositorywithyourprojectcodewithin7daysto
+eng@startchapterone.com.Ensuretherepositoryispublicorcanbeaccessedby
+specificreviewers.Alternatively,youcansendanemailwitha.zipfileofyour
+codetoeng@startchapterone.comwithTitle`[Name] -ReactNativeTechScreen`
+● Makesureyourcodeisclean,organized,andcommentedasnecessary.
+EvaluationCriteria:
+● Functionality:Doestheappallowuserstoadd,complete,anddeletetasksas
+described?
+● CodeQuality:Isthecodewell-organized,clean,andcommentedwhere
+necessary?
+● UI/UXDesign:Istheapp'suserinterfaceintuitiveandresponsive?Doesitprovide
+agooduserexperience?
+● UnderstandingofCoreConcepts:Doestheappdemonstrateagood
+understandingofReactNativecomponents,statemanagement,andbasicuser
+interactions?
