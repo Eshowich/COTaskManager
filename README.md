@@ -56,4 +56,4 @@ App.js (89 lines total)
 4. **Delete**: Filter out task with matching ID
 5. **Display**: FlatList renders each task with conditional styling
 
-Built following React Native best practices with clean, commented code. 
+Thank you for your time and consideration!!
